@@ -1,0 +1,17 @@
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\Unidad1\ProgApuntes\Unidad1\ProgEjercicios\archivoML\bin\Debug\net8.0\ArchivoML.exe
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\Unidad1\ProgApuntes\Unidad1\ProgEjercicios\archivoML\bin\Debug\net8.0\ArchivoML.deps.json
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\Unidad1\ProgApuntes\Unidad1\ProgEjercicios\archivoML\bin\Debug\net8.0\ArchivoML.runtimeconfig.json
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\Unidad1\ProgApuntes\Unidad1\ProgEjercicios\archivoML\bin\Debug\net8.0\ArchivoML.dll
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\Unidad1\ProgApuntes\Unidad1\ProgEjercicios\archivoML\bin\Debug\net8.0\ArchivoML.pdb
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\Unidad1\ProgApuntes\Unidad1\ProgEjercicios\archivoML\obj\Debug\net8.0\ArchivoML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\Unidad1\ProgApuntes\Unidad1\ProgEjercicios\archivoML\obj\Debug\net8.0\ArchivoML.AssemblyInfoInputs.cache
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\Unidad1\ProgApuntes\Unidad1\ProgEjercicios\archivoML\obj\Debug\net8.0\ArchivoML.AssemblyInfo.cs
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\Unidad1\ProgApuntes\Unidad1\ProgEjercicios\archivoML\obj\Debug\net8.0\ArchivoML.csproj.CoreCompileInputs.cache
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\Unidad1\ProgApuntes\Unidad1\ProgEjercicios\archivoML\obj\Debug\net8.0\ArchivoML.sourcelink.json
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\Unidad1\ProgApuntes\Unidad1\ProgEjercicios\archivoML\obj\Debug\net8.0\ArchivoML.dll
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\Unidad1\ProgApuntes\Unidad1\ProgEjercicios\archivoML\obj\Debug\net8.0\refint\ArchivoML.dll
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\Unidad1\ProgApuntes\Unidad1\ProgEjercicios\archivoML\obj\Debug\net8.0\ArchivoML.pdb
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\Unidad1\ProgApuntes\Unidad1\ProgEjercicios\archivoML\obj\Debug\net8.0\ArchivoML.genruntimeconfig.cache
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\Unidad1\ProgApuntes\Unidad1\ProgEjercicios\archivoML\obj\Debug\net8.0\ref\ArchivoML.dll
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\Unidad1\ProgApuntes\Unidad1\ProgEjercicios\archivoML\bin\Debug\net8.0\ArchivoML.runtimeconfig.dev.json
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\Unidad1\ProgApuntes\Unidad1\ProgEjercicios\archivoML\obj\Debug\net8.0\ArchivoML.csproj.Up2Date

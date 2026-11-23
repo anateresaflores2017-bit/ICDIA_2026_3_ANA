@@ -1,0 +1,15 @@
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\.a19-check\bin\Debug\net8.0\A19Check.exe
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\.a19-check\bin\Debug\net8.0\A19Check.deps.json
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\.a19-check\bin\Debug\net8.0\A19Check.runtimeconfig.json
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\.a19-check\bin\Debug\net8.0\A19Check.dll
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\.a19-check\bin\Debug\net8.0\A19Check.pdb
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\.a19-check\obj\Debug\net8.0\A19Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\.a19-check\obj\Debug\net8.0\A19Check.AssemblyInfoInputs.cache
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\.a19-check\obj\Debug\net8.0\A19Check.AssemblyInfo.cs
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\.a19-check\obj\Debug\net8.0\A19Check.csproj.CoreCompileInputs.cache
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\.a19-check\obj\Debug\net8.0\A19Check.sourcelink.json
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\.a19-check\obj\Debug\net8.0\A19Check.dll
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\.a19-check\obj\Debug\net8.0\refint\A19Check.dll
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\.a19-check\obj\Debug\net8.0\A19Check.pdb
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\.a19-check\obj\Debug\net8.0\A19Check.genruntimeconfig.cache
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\.a19-check\obj\Debug\net8.0\ref\A19Check.dll

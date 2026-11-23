@@ -1,0 +1,17 @@
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\ExperimentoMLApp\bin\Debug\net11.0\ExperimentoMLApp.exe
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\ExperimentoMLApp\bin\Debug\net11.0\ExperimentoMLApp.deps.json
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\ExperimentoMLApp\bin\Debug\net11.0\ExperimentoMLApp.runtimeconfig.json
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\ExperimentoMLApp\bin\Debug\net11.0\ExperimentoMLApp.runtimeconfig.dev.json
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\ExperimentoMLApp\bin\Debug\net11.0\ExperimentoMLApp.dll
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\ExperimentoMLApp\bin\Debug\net11.0\ExperimentoMLApp.pdb
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\ExperimentoMLApp\obj\Debug\net11.0\ExperimentoMLApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\ExperimentoMLApp\obj\Debug\net11.0\ExperimentoMLApp.AssemblyInfoInputs.cache
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\ExperimentoMLApp\obj\Debug\net11.0\ExperimentoMLApp.AssemblyInfo.cs
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\ExperimentoMLApp\obj\Debug\net11.0\ExperimentoMLApp.csproj.CoreCompileInputs.cache
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\ExperimentoMLApp\obj\Debug\net11.0\ExperimentoMLApp.sourcelink.json
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\ExperimentoMLApp\obj\Debug\net11.0\ExperimentoMLApp.dll
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\ExperimentoMLApp\obj\Debug\net11.0\refint\ExperimentoMLApp.dll
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\ExperimentoMLApp\obj\Debug\net11.0\ExperimentoMLApp.pdb
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\ExperimentoMLApp\obj\Debug\net11.0\ExperimentoMLApp.genruntimeconfig.cache
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\ExperimentoMLApp\obj\Debug\net11.0\ref\ExperimentoMLApp.dll
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\ExperimentoMLApp\obj\Debug\net11.0\Experime.EF750F16.Up2Date

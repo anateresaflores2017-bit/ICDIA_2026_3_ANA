@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "ExperimentoMLApp/1.0.0": {
+        "runtime": {
+          "ExperimentoMLApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExperimentoMLApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Ahorcado",
+			"type": "shell",
+			"command": "dotnet",
+			"args": [
+				"run",
+				"--project",
+				"C:\\Users\\sam06\\.copilot\\chats\\fd1e7996-0c5f-421f-a988-d755a3f05f1e\\ICDIA_2026_3_AppsPortafolioEvidencias.csproj",
+				"--configuration",
+				"Ahorcado"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run Program U1",
+			"type": "shell",
+			"command": "dotnet",
+			"args": [
+				"run",
+				"--project",
+				"C:\\Users\\sam06\\.copilot\\chats\\fd1e7996-0c5f-421f-a988-d755a3f05f1e\\ICDIA_2026_3_AppsPortafolioEvidencias.csproj",
+				"--configuration",
+				"U1",
+				"--property:StartupObject=ICDIA_2026_3_AppsPortafolioEvidencias.ProgramU1"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}

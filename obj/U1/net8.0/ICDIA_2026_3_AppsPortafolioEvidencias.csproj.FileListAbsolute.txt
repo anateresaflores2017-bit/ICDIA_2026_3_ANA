@@ -1,0 +1,15 @@
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\bin\U1\net8.0\ICDIA_2026_3_AppsPortafolioEvidencias.exe
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\bin\U1\net8.0\ICDIA_2026_3_AppsPortafolioEvidencias.deps.json
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\bin\U1\net8.0\ICDIA_2026_3_AppsPortafolioEvidencias.runtimeconfig.json
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\bin\U1\net8.0\ICDIA_2026_3_AppsPortafolioEvidencias.dll
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\bin\U1\net8.0\ICDIA_2026_3_AppsPortafolioEvidencias.pdb
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\obj\U1\net8.0\ICDIA_2026_3_AppsPortafolioEvidencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\obj\U1\net8.0\ICDIA_2026_3_AppsPortafolioEvidencias.AssemblyInfoInputs.cache
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\obj\U1\net8.0\ICDIA_2026_3_AppsPortafolioEvidencias.AssemblyInfo.cs
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\obj\U1\net8.0\ICDIA_2026_3_AppsPortafolioEvidencias.csproj.CoreCompileInputs.cache
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\obj\U1\net8.0\ICDIA_2026_3_AppsPortafolioEvidencias.sourcelink.json
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\obj\U1\net8.0\ICDIA_2026_3_AppsPortafolioEvidencias.dll
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\obj\U1\net8.0\refint\ICDIA_2026_3_AppsPortafolioEvidencias.dll
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\obj\U1\net8.0\ICDIA_2026_3_AppsPortafolioEvidencias.pdb
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\obj\U1\net8.0\ICDIA_2026_3_AppsPortafolioEvidencias.genruntimeconfig.cache
+C:\Users\sam06\.copilot\chats\fd1e7996-0c5f-421f-a988-d755a3f05f1e\obj\U1\net8.0\ref\ICDIA_2026_3_AppsPortafolioEvidencias.dll
